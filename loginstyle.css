@@ -1,6 +1,10 @@
 body{
     font-family: 'Raleway','sans-serif';
-    background:url(image/beyond\ the\ other\ side.gif)
+    background:url(image/beyond\ the\ other\ side.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
     
 }
 .feature-img{
