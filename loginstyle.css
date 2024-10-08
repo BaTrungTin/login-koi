@@ -11,7 +11,7 @@ body{
     width: 250px;
 }
 .box-area{
-    width: 600px;
+    width: 400px;
     text-align: center;
     background-color:rgba(49, 155, 192, 0.7);
     
@@ -26,7 +26,6 @@ body{
 .signup{
     font-weight: bolder;
 }
-
 
 @media only screen and (max-width:768px){
     .box-area{
