@@ -7,6 +7,14 @@ body{
     
     
 }
+
+.headertext-h2{
+    font-size: 250%;
+    font-family:"Arizonia","Sans-serif";
+}
+.headertext-h3{
+    font-size: 200%;
+}
 .feature-img{
     width: 250px;
 }
